@@ -11,8 +11,6 @@ HackFusion is an innovative organization dedicated to enhancing cybersecurity th
 At HackFusion, we strive to create a community of cybersecurity enthusiasts who are passionate about learning and sharing their knowledge. We offer a wide range of educational resources, workshops, and training programs to help individuals develop their skills in ethical hacking, penetration testing, secure coding, and more.
 
 ## Our Mission 🎯
-![](https://giphy.com/embed/IXnygGeB6LPPi)
-![](https://giphy.com/gifs/animated-sphere-IXnygGeB6LPPi)via GIPHY
 
 Our mission is to bridge the gap between cybersecurity professionals and the general public by providing accessible and engaging learning experiences. Through our initiatives, we aim to raise awareness about the importance of cybersecurity and empower individuals to take control of their online safety.
 
