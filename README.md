@@ -2,7 +2,7 @@
 
 Welcome to HackFusion! :rocket:
 
-![HackFusion Logo](https://github.com/hackfusion/.github/blob/4240a622f121350f3975cea4a87614e95095c827/hackfusion-logo.jpg)
+![HackFusion Logo](hackfusion-1.jpg)
 
 HackFusion is an innovative organization dedicated to enhancing cybersecurity through education and comprehensive solutions. 🔒 We believe in empowering individuals with the knowledge and tools necessary to protect themselves and their digital assets from cyber threats.
 
