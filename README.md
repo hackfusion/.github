@@ -37,9 +37,13 @@ We welcome individuals of all skill levels who are interested in cybersecurity. 
 ![Join HackFusion](https://github.com/hackfusion/.github/blob/4240a622f121350f3975cea4a87614e95095c827/hackfusion-join.gif)
 
 ## Connect with Us 🌐
-
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 - ✉️ Email: themehakcodes.business@gmail.com
+  
+![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
 - 🐦 Twitter: [@HackFusion](https://twitter.com/HackFusion)
+  
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 - 🔗 GitHub: [github.com/HackFusion](https://github.com/HackFusion)
 
 ![HackFusion Community](https://github.com/hackfusion/.github/blob/4240a622f121350f3975cea4a87614e95095c827/hackfusion-community.gif)
