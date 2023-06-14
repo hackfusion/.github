@@ -2,7 +2,6 @@
 
 Welcome to HackFusion! :rocket:
 
-![HackFusion Logo](hackfusion-1.jpg)
 
 HackFusion is an innovative organization dedicated to enhancing cybersecurity through education and comprehensive solutions. 🔒 We believe in empowering individuals with the knowledge and tools necessary to protect themselves and their digital assets from cyber threats.
 
@@ -17,6 +16,7 @@ Our mission is to bridge the gap between cybersecurity professionals and the gen
 ## contribute
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/thehackfusion)
 - ☕ Buy cofee for me : https://www.buymeacoffee.com/thehackfusion
+- ![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white](https://patreon.com/user?u=83400255&utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=creatorshare_creator&utm_content=join_link)
 
 ## What We Offer 💻
 
