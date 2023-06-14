@@ -45,6 +45,7 @@ We welcome individuals of all skill levels who are interested in cybersecurity. 
   
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 - 🔗 GitHub: [github.com/HackFusion](https://github.com/HackFusion)
+  
 ![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)
 
 - 📰 Blogger :[hackfusion](https://hackfusion.blogspot.com)
