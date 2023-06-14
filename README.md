@@ -16,7 +16,10 @@ Our mission is to bridge the gap between cybersecurity professionals and the gen
 ## contribute
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/thehackfusion)
 - ☕ Buy cofee for me : https://www.buymeacoffee.com/thehackfusion
-- ![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white](https://patreon.com/user?u=83400255&utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=creatorshare_creator&utm_content=join_link)
+
+[!["Patreon"](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/user?u=83400255&utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=creatorshare_creator&utm_content=join_link)
+
+-:computer: Suport My Work On Patreon : [Patron.com/themehakcodes](https://patreon.com/user?u=83400255&utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=creatorshare_creator&utm_content=join_link)
 
 ## What We Offer 💻
 
